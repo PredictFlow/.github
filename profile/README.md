@@ -26,7 +26,7 @@ PredictFlow connects to your Shopify or WooCommerce store and turns your order h
 | SDK | Status | Install |
 |---|---|---|
 | [javascript-sdk](https://github.com/PredictFlow/javascript-sdk) | ✅ Available | `npm install @predictflow/sdk` |
-| [python-sdk](https://github.com/PredictFlow/python-sdk) | 🚧 In development | not yet published |
+| [python-sdk](https://github.com/PredictFlow/python-sdk) | 🔧 Built, not yet published | not yet published |
 | [php-sdk](https://github.com/PredictFlow/php-sdk) | 🚧 In development | not yet published |
 
 Each SDK is a thin, typed client over the same REST API — pick the one for your stack. [javascript-sdk](https://github.com/PredictFlow/javascript-sdk) is the most complete reference right now: zero runtime dependencies, full TypeScript types, and every method verified against the live API before shipping.
