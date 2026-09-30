@@ -4,7 +4,7 @@
 
 **Demand forecasting, inventory intelligence, and pricing optimization for e-commerce.**
 
-[Website](https://predictflow.co) · [javascript-sdk](https://github.com/PredictFlow/javascript-sdk) · [npm package](https://www.npmjs.com/package/@predictflow/sdk)
+[Website](https://predictflow.co) · [npm](https://www.npmjs.com/package/@predictflow/sdk) · [PyPI](https://pypi.org/project/predictflow/) · [Packagist](https://packagist.org/packages/predictflow/sdk)
 
 </div>
 
@@ -39,7 +39,7 @@ Each SDK is a thin, typed client over the same REST API — pick the one for you
 
 ## Contributing
 
-Each SDK repo has its own `CONTRIBUTING.md` and `SECURITY.md` - see [javascript-sdk's](https://github.com/PredictFlow/javascript-sdk/blob/main/CONTRIBUTING.md) for the pattern the others will follow: verify every API call against the real backend before opening a PR, that's the one rule that matters most here.
+Each SDK repo has its own `CONTRIBUTING.md` and `SECURITY.md`, all following the same rule: verify every API call against the real backend before opening a PR, not just against a schema - that's the one rule that matters most here. ([javascript-sdk](https://github.com/PredictFlow/javascript-sdk/blob/main/CONTRIBUTING.md) · [python-sdk](https://github.com/PredictFlow/python-sdk/blob/main/CONTRIBUTING.md) · [php-sdk](https://github.com/PredictFlow/php-sdk/blob/main/CONTRIBUTING.md))
 
 ## License
 
